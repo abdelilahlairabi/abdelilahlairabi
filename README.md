@@ -41,6 +41,4 @@ Here are some of my main projects:
 - GitHub: [abdelilahlairabi](https://github.com/abdelilahlairabi)
 
 ---
-## 📊 My GitHub Stats
 
-![Abdelilah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelilahlairabi&show_icons=true&count_private=true&theme=radical)
