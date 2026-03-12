@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Abdelilah Lairabi
 
-<!--
-**abdelilahlairabi/abdelilahlairabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Passionate about building modern web applications
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 Currently working as a Web Development Intern
+- 🌱 Learning advanced Laravel, React
+- 💡 Interested in SaaS platforms and scalable applications
+- 📍 Based in Morocco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Frontend: React, JavaScript, TailwindCSS, HTML, CSS
+- Backend: Laravel,PHP
+- Database: MySQL, MongoDB
+- Tools: Git, Docker, Postman
+
+## 📂 Projects
+- 📌 Task Management App (Laravel + React)
+- 📌 E-commerce Store (PHP + MySQL)
+- 📌 Task_Management (laravel + React)
+## 📫 Contact
+- GitHub: https://github.com/abdelilahlairabi
