@@ -39,6 +39,6 @@ Here are some of my main projects:
 
 ## 📫 Contact Me
 - GitHub: [abdelilahlairabi](https://github.com/abdelilahlairabi)
-
+- Linkdin: [abdelilahlairabi](https://www.linkedin.com/in/abdelilah-lairabi-727574350/)
 ---
 
