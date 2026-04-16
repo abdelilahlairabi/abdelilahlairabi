@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=abdelilahlairabi&color=blue)
 
-💻 **Full Stack Developer** | Laravel · React · JavaScript  
+💻 **Full Stack Developer** | Laravel · React  
 🚀 Currently working as a **Web Development Intern**  
 
 ---
